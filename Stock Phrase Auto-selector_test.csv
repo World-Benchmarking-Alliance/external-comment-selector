@@ -1,0 +1,236 @@
+﻿RA,Indicator code,Indicator name,Element code,Element code,Element description,Drop downn values,Data type,Met/Unmet,WBA Logic,Expected/ Impossible/ Edge,External comment,Element Order,Scoring Logic Order,Scoring logics,Logic comments
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Met,"B.1.A.I=""Yes"" ",Expected,The company reports on the locations of the assets or activities in its direct operations that are in or near ecologically sensitive locations.,Order - 1,,"NAT00B1A.1 = ""Yes"" ",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Met,"B.1.A.I<>""Yes"" AND B.1.A.II=""Yes"" AND B.1.A.III=""Yes"" AND B.1.A.IV=""Yes"" AND B.1.A.V=""Yes""",Expected,"The company reports that none of its operations are located in or near ecologically sensitive areas. Additionally, it identifies the products and services in its value chain that have the most significant impacts on nature, specifies the countries or jurisdictions where the activities associated with these products and services take place, and justifies its claim of not having operations in or near ecologically sensitive areas with a methodology or tool used for determination.",Order - 1,,"NAT00B1A.1   NOT EQUAL TO   ""Yes"" AND 
+NAT00B1A.2 = ""Yes"" AND 
+NAT00B1A.3 = ""Yes"" AND 
+NAT00B1A.4 = ""Yes"" AND 
+NAT00B1A.5 = ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet,"B.1.A.I<>""Yes"" AND B.1.A.II=""Yes"" AND B.1.A.III<>""Yes"" AND B.1.A.IV<>""Yes"" AND B.1.A.V<>""Yes""",Expected,"Although the company reports that none of its operations are located in or near ecologically sensitive areas, no evidence was found that it identifies which products and services in its value chain have the most significant impacts on nature or jurisdictions where these activities occur.",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.2=""Yes"" AND 
+NAT00B1A.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.4  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.5  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.A.I<>""Yes"" AND B.1.A.II=""Yes"" AND B.1.A.III<>""Yes"" AND B.1.A.IV<>""Yes"" AND B.1.A.V=""Yes""",Expected,"Although the company reports that none of its operations are located in or near ecologically sensitive areas and justifies this claim using a specific methodology or tool, no evidence was found that it identifies which products and services in its value chain have the most significant impacts on nature or reports the countries or jurisdictions where these activities occur.",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.2=""Yes"" AND 
+NAT00B1A.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.4  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.5=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet,"B.1.A.I<>""Yes"" AND B.1.A.II=""Yes"" AND B.1.A.III=""Yes"" AND B.1.A.IV<>""Yes"" AND B.1.A.V<>""Yes""",Expected,"Although the company reports that none of its operations are located in or near ecologically sensitive areas, and it identifies which products and services in its value chain have the most significant impacts on nature, no evidence was found that it reports on the countries or jurisdictions where the activities associated with these products and services take place.",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.2=""Yes"" AND 
+NAT00B1A.3=""Yes"" AND 
+NAT00B1A.4  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.5  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.A.I<>""Yes"" AND B.1.A.II=""Yes"" AND B.1.A.III=""Yes"" AND B.1.A.IV<>""Yes"" AND B.1.A.V=""Yes""",Edge,"Although the company reports that none of its operations are located in or near ecologically sensitive areas and justifies this claim using a specific methodology or tool, as well as identifies the products and services in its value chain with the most significant impacts on nature, no evidence was found indicating that it reports on the countries or jurisdictions where the activities associated with these products and services occur.",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.2=""Yes"" AND 
+NAT00B1A.3=""Yes"" AND 
+NAT00B1A.4  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.5=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet,"B.1.A.I<>""Yes"" AND B.1.A.II=""Yes"" AND B.1.A.III=""Yes"" AND B.1.A.IV=""Yes"" AND B.1.A.V<>""Yes""",Expected,"Although the company reports that none of its operations are located in or near ecologically sensitive areas, identifies the products and services in its value chain with the most significant impacts on nature, and specifies the countries or jurisdictions where these activities occur, no evidence was found that it justifies its claim using a methodology or tool for determination.",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.2=""Yes"" AND
+ NAT00B1A.3=""Yes"" AND
+ NAT00B1A.4=""Yes"" AND
+ NAT00B1A.5  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.A.I<>""Yes"" AND B.1.A.II<>""Yes"" AND B.1.A.III=""Yes"" AND B.1.A.IV=""Yes"" AND B.1.A.V<>""Yes""",Edge,"Although the company identifies the products and services in its value chain with the most significant impacts on nature, and specifies the countries or jurisdications where these activities occur, no evidence was found that it reports on their location with respect to ecologically sensitive locations or that it justifies that none of those activities are located near ecologically sensitive locations using a methodology or tool for determination. ",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1A.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.3=""Yes"" AND
+ NAT00B1A.4=""Yes"" AND 
+NAT00B1A.5  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.A.I<>""Yes"" AND B.1.A.II<>""Yes"" AND B.1.A.III=""Yes"" AND B.1.A.IV<>""Yes"" AND B.1.A.V<>""Yes""",Edge,"Although the company identifies the products and services in its value chain with the most significant impacts on nature, no evidence was found that it identifies the countries or jurisdications where these activities occur, that it reports on their location with respect to ecologically sensitive locations, or that it justifies that none of those activities are located near ecologically sensitive locations using a methodology or tool for determination. ",Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.3=""Yes"" AND 
+NAT00B1A.4  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.5  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.A,NAT00B1A,The company identifies its interface with ecologically sensitive locations.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.A.I<>""Yes"" AND B.1.A.II<>""Yes"" AND B.1.A.III<>""Yes"" AND B.1.A.IV<>""Yes"" AND B.1.A.V<>""Yes""",Expected,No relevant disclosure was found that the company identifies it's interface with ecologically sensitive locations.,Order - 1,,"NAT00B1A.1  NOT EQUAL TO  ""Yes"" AND
+NAT00B1A.2  NOT EQUAL TO  ""Yes"" AND
+NAT00B1A.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.4  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1A.5  NOT EQUAL TO  ""Yes""",
+,,,,NAT00B1A.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1A.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1A.3,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1A.4,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1A.5,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.1,Impacts on nature,B.1.B,NAT00B1B,The company assesses its impact drivers related to changes in the state of nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.B.I=""Yes"" AND B.1.B.II=""Yes""",Expected,The company identifies their most material impact drivers related to changes in the state of nature and quantifies them.,Order - 1,,"NAT00B1B.1=""Yes"" AND NAT00B1B.2=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.B,NAT00B1B,The company assesses its impact drivers related to changes in the state of nature.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.B.I=""Yes"" AND B.1.B.II<>""Yes""",Expected,"Although the company identifies their most material impact drivers related to changes in the state of nature, no evidence was found that the company quantifies any of them.",Order - 1,,"NAT00B1B.1=""Yes"" AND NAT00B1B.2  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.B,NAT00B1B,The company assesses its impact drivers related to changes in the state of nature.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.B.I<>""Yes"" AND B.1.B.II=""Yes""",Expected,"Although the company quantifies the impact drivers it identified, no evidence was found to show that it explicitly recognizes them as impact drivers affecting the state of nature.",Order - 1,,"NAT00B1B.1  NOT EQUAL TO  ""Yes"" AND NAT00B1B.2=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.B,NAT00B1B,The company assesses its impact drivers related to changes in the state of nature.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.B.I<>""Yes"" AND B.1.B.II<>""Yes""",Expected ,No relevant disclosure was found that the company assesses its impact drivers related to changes in the state of nature.,Order - 1,,"NAT00B1B.1  NOT EQUAL TO  ""Yes"" AND NAT00B1B.2  NOT EQUAL TO  ""Yes""",
+,,,,NAT00B1B.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1B.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met ,"B.1.C.I=""Yes"" AND B.1.C.II<>""Yes"" AND B.1.C.III<>""Yes""",Expected,The company reports measurements of changes in the state of ecosystem conditions due to impacts from their operations or value chain for at least one material location.,Order - 1,,"NAT00B1C.1=""Yes"" AND
+ NAT00B1C.2  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1C.3  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met,"B.1.C.I<>""Yes"" AND B.1.C.II=""Yes"" AND B.1.C.III<>""Yes""",Expected,The company reports measurements of changes in species risk extinction due to impacts from their operations or value chain for at least one material location.,Order - 1,,"NAT00B1C.1  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1C.2=""Yes"" AND 
+NAT00B1C.3  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met,"B.1.C.I<>""Yes"" AND B.1.C.II<>""Yes"" AND B.1.C.III=""Yes""",Expected,The company reports measurements of changes in biodiversity due to impacts from their operations or value chain for at least one material location.,Order - 1,,"NAT00B1C.1  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1C.2  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1C.3=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met,"B.1.C.I=""Yes"" AND B.1.C.II=""Yes"" AND B.1.C.III<>""Yes""",Expected,The company reports measurements of changes in the state of ecosystem conditions and species risk extinction due to impacts from their operations or value chain for at least one material location.,Order - 1,,"NAT00B1C.1=""Yes"" AND 
+NAT00B1C.2=""Yes"" AND 
+NAT00B1C.3  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met,"B.1.C.I=""Yes"" AND B.1.C.II<>""Yes"" AND B.1.C.III=""Yes""",Expected,The company reports measurements of changes in the state of ecosystem conditions and biodiversity due to impacts from their operations or value chain for at least one material location.,Order - 1,,"NAT00B1C.1=""Yes"" AND 
+NAT00B1C.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1C.3=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met,"B.1.C.I<>""Yes"" AND B.1.C.II=""Yes"" AND B.1.C.III=""Yes""",Expected,The company reports measurements of changes in species risk extinction and biodiversity due to impacts from their operations or value chain for at least one material location.,Order - 1,,"NAT00B1C.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1C.2=""Yes"" AND 
+NAT00B1C.3=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Met,"B.1.C.I=""Yes"" AND B.1.C.III=""Yes"" AND B.1.C.III=""Yes""",Expected,"The company reports measurements of changes in the state of ecosystem conditions, species risk extinction and biodiversity due to impacts from their operations or value chain for at least one material location.",Order - 1,,"NAT00B1C.1=""Yes"" AND 
+NAT00B1C.2=""Yes"" AND 
+NAT00B1C.3=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.C,NAT00B1C,The company assesses its impact on ecosystems and species. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.C.I<>""Yes"" AND B.1.C.II<>""Yes"" AND B.1.C.III=""Yes""",Expected,No relevant disclosure was found that the company assesses its impact on ecosystems and species.,Order - 1,,"NAT00B1C.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1C.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1C.3 NOT EQUAL TO  ""Yes",
+,,,,NAT00B1C.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1C.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1C.3,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II=""Yes"" AND B.1.D.III<>""Yes"" AND B.1.D.IV<>""Yes""",Expected,The company identifies impacts on people stemming from its impact on nature and it applies monetary environmental valuation techniques to assess those impacts.,Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2=""Yes"" AND 
+NAT00B1D.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.4  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II<>""Yes"" AND B.1.D.III=""Yes"" AND B.1.D.IV<>""Yes""",Expected,The company identifies impacts on people stemming from its impact on nature and it applies a non-monetary environmental valuation techniques to assess those impacts.,Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.3=""Yes"" AND 
+NAT00B1D.4  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II<>""Yes"" AND B.1.D.III<>""Yes"" AND B.1.D.IV=""Yes""",Expected,The company identifies impacts on people stemming from its impact on nature and it quantifies the number of people impacted.,Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.4=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II=""Yes"" AND B.1.D.III=""Yes"" AND B.1.D.IV<>""Yes""",Edge,The company identifies impacts on people stemming from its impact on nature and applies both monetary and non-monetary environmental valuation techniques to assess those impacts.,Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2=""Yes"" AND 
+NAT00B1D.3=""Yes"" AND 
+NAT00B1D.4  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II=""Yes"" AND B.1.D.III<>""Yes"" AND B.1.D.IV=""Yes""",Edge,"The company identifies impacts on people stemming from its impact on nature, applies monetary environmental valuation techniques, and quantifies the number of people impacted.",Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2=""Yes"" AND 
+NAT00B1D.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.4=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II<>""Yes"" AND B.1.D.III=""Yes"" AND B.1.D.IV=""Yes""",Edge,"The company identifies impacts on people stemming from its impact on nature, applies non-monetary environmental valuation techniques, and quantifies the number of people impacted.",Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2  NOT EQUAL TO  ""Yes"" AND
+NAT00B1D.3=""Yes"" AND 
+NAT00B1D.4=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Met,"B.1.D.I=""Yes"" AND B.1.D.II=""Yes"" AND B.1.D.III=""Yes"" AND B.1.D.IV=""Yes""",Edge,"The company identifies impacts on people stemming from its impact on nature, applies both monetary and non-monetary environmental valuation techniques, and quantifies the number of people impacted.",Order - 1,,"NAT00B1D.1=""Yes"" AND
+NAT00B1D.2=""Yes"" AND 
+NAT00B1D.3=""Yes"" AND 
+NAT00B1D.4=""Yes""",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.D.I=""Yes"" AND B.1.D.II<>""Yes"" AND B.1.D.III<>""Yes"" AND B.1.D.IV<>""Yes"" ",Expected,"Although the company identifies impacts on people stemming from its impact on nature, no evidence was found that the company applies monetary or non-monetary environmental valuation techniques to assess those impacts, or that it quantifies the number of people impacted due to its impacts on nature.",Order - 1,,"NAT00B1D.1=""Yes"" AND 
+NAT00B1D.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.4  NOT EQUAL TO  ""Yes"" ",
+Ambika/Xuelai,B.1,Impacts on nature,B.1.D,NAT00B1D,The company assesses the impacts to society stemming from its impacts on nature.,Met/Unmet/Not Applicable,Select,Unmet ,"B.1.D.I<>""Yes"" AND B.1.D.II<>""Yes"" AND B.1.D.III<>""Yes"" AND B.1.D.IV<>""Yes"" ",Expected,No relevant disclosure was found that the company assesses the impacts to society stemming from its impacts on nature.,Order - 1,,"NAT00B1D.1  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1D.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B1D.3  NOT EQUAL TO  ""Yes"" AND
+ NAT00B1D.4  NOT EQUAL TO  ""Yes"" ",
+,,,,NAT00B1D.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1D.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1D.3,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B1D.4,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II=""Yes"" AND B.2.A.III<>""Yes"" AND B.2.A.IV<>""Yes""",Expected,"The company identifies the main ways it is dependent on nature, and it quantifies the extent of dependence on natural resources.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2=""Yes"" AND 
+NAT00B2A.3  NOT EQUAL TO  ""Yes"" AND
+NAT00B2A.4  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II<>""Yes"" AND B.2.A.III=""Yes"" AND B.2.A.IV<>""Yes""",Expected,"The company identifies the main ways it is dependent on nature, and it quantifies the extent of dependence on ecosystem services.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2  NOT EQUAL TO  ""Yes"" AND
+ NAT00B2A.3=""Yes"" AND
+ NAT00B2A.4  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II<>""Yes"" AND B.2.A.III<>""Yes"" AND B.2.A.IV=""Yes""",Expected,"The company identifies the main ways it is dependent on nature, and it quantifies the extent of dependence on nature's contribution to people.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2  NOT EQUAL TO  ""Yes"" AND
+ NAT00B2A.3  NOT EQUAL TO  ""Yes"" AND
+ NAT00B2A.4=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II=""Yes"" AND B.2.A.III=""Yes"" AND B.2.A.IV<>""Yes""",Edge,"The company identifies the main ways it is dependent on nature, quantifying the extent of dependence on both natural resources and ecosystem services.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2=""Yes"" AND 
+NAT00B2A.3=""Yes"" AND 
+NAT00B2A.4  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II=""Yes"" AND B.2.A.III<>""Yes"" AND B.2.A.IV=""Yes""",Edge,"The company identifies the main ways it is dependent on nature, quantifying the extent of dependence on both natural resources and nature's contribution to people.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2=""Yes"" AND 
+NAT00B2A.3  NOT EQUAL TO  ""Yes"" AND
+ NAT00B2A.4=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II<>""Yes"" AND B.2.A.III=""Yes"" AND B.2.A.IV=""Yes""",Edge,"The company identifies the main ways it is dependent on nature, quantifying the extent of dependence on both ecosystem services and nature's contribution to people.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2  NOT EQUAL TO  ""Yes"" AND
+ NAT00B2A.3=""Yes"" AND
+ NAT00B2A.4=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Met,"B.2.A.I=""Yes"" AND B.2.A.II=""Yes"" AND B.2.A.III=""Yes"" AND B.2.A.IV=""Yes""",Edge,"The company identifies the main ways it is dependent on nature, quantifying the extent of dependence on natural resources, ecosystem services, and nature's contribution to people.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2=""Yes"" AND 
+NAT00B2A.3=""Yes"" AND 
+NAT00B2A.4=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.A.I=""Yes"" AND B.2.A.II<>""Yes"" AND B.2.A.III<>""Yes"" AND B.2.A.IV<>""Yes"" ",Expected,"Although the company identifies the main ways it is dependent on nature, no evidence was found that it reports metrics that can be useful for quantifying the extent of dependence on natural resources, ecosystem services, or nature's contribution to people.",Order - 1,,"NAT00B2A.1=""Yes"" AND
+ NAT00B2A.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B2A.3  NOT EQUAL TO  ""Yes"" AND
+ NAT00B2A.4  NOT EQUAL TO  ""Yes"" ",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.A,NAT00B2A,The company assesses its dependence on ecosystem services. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.A.I<>""Yes"" AND B.2.A.II<>""Yes"" AND B.2.A.III<>""Yes"" AND B.2.A.IV<>""Yes"" ",Expected,No relevant disclosure was found that the company assesses its dependence on ecosystem services.,Order - 1,,"NAT00B2A.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B2A.2  NOT EQUAL TO  ""Yes"" AND 
+NAT00B2A.3  NOT EQUAL TO  ""Yes"" AND 
+NAT00B2A.4  NOT EQUAL TO  ""Yes"" ",
+,,,,NAT00B2A.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2A.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2A.3,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2A.4,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I=""Yes"" AND B.2.B.II<>""Yes"" AND B.2.B.III=""Yes"" AND B.2.B.IV<>""Yes""",Expected,The company identifies nature-related business performance opportunities that could impact their business positively and quantifies them .,Order - 1,,"NAT00B2B.1 = ""Yes"" AND
+ NAT00B2B.2   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.3 = ""Yes"" AND 
+NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I=""Yes"" AND B.2.B.II<>""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV=""Yes""",Expected,The company identifies nature-related business performance opportunities that could impact their business positively and gives qualitative descriptions to articulate the anticipated value to the business do to those nature-related opportunities .,Order - 1,,"NAT00B2B.1 = ""Yes"" AND 
+NAT00B2B.2   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.4 = ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I<>""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III=""Yes"" AND B.2.B.IV<>""Yes""",Expected,The company identifies sustainability performance opportunities that could impact their business positively and it quantifies them .,Order - 1,,"NAT00B2B.1   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND
+ NAT00B2B.3 = ""Yes"" AND 
+NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I<>""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV=""Yes""",Expected,The company identifies sustainability performance opportunities that could impact their business positively and gives qualitative descriptions to articulate the anticipated value to the business due to those opportunities .,Order - 1,,"NAT00B2B.1   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND
+ NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.4 = ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I=""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III=""Yes"" AND B.2.B.IV<>""Yes""",Expected,The company identifies nature-related business and sustainability performance opportunities that could impact their business positively and quantifies them .,Order - 1,,"NAT00B2B.1 = ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND
+ NAT00B2B.3 = ""Yes"" AND
+ NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I=""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV=""Yes""",Expected,The company identifies nature-related business and sustainability performance opportunities that could impact their business positively and and gives qualitative descriptions to articulate the anticipated value to the business due to those opportunities .,Order - 1,,"NAT00B2B.1 = ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND 
+NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.4 = ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I=""Yes"" AND B.2.B.II<>""Yes"" AND B.2.B.III=""Yes"" AND B.2.B.IV=""Yes""",Edge,"The company identifies nature-related business performance opportunities that could impact their business positively, quantifies them, and provides qualitative descriptions to articulate the anticipated value of these opportunities to the business.",Order - 1,,"NAT00B2B.1 = ""Yes"" AND 
+NAT00B2B.2   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.3 = ""Yes"" AND
+ NAT00B2B.4 = ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I<>""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III=""Yes"" AND B.2.B.IV=""Yes""",Edge,"The company identifies sustainability performance opportunities that could impact their business positively, quantifies them, and provides qualitative descriptions to articulate the anticipated value of these opportunities to the business.",Order - 1,,"NAT00B2B.1   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND
+ NAT00B2B.3 = ""Yes"" AND 
+NAT00B2B.4 = ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Met,"B.2.B.I=""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III=""Yes"" AND B.2.B.IV=""Yes""",Edge,"The company identifies both nature-related and sustainability performance opportunities that could impact their business positively, quantifies them, and provides qualitative descriptions to articulate the anticipated value of these opportunities to the business.",Order - 1,,"NAT00B2B.1 = ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND 
+NAT00B2B.3 = ""Yes"" AND 
+NAT00B2B.4 = ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.B.I=""Yes"" AND B.2.B.II<>""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV<>""Yes""",Expected,"Although the company identifies nature-related business performance opportunities that could impact their business positively, no evidence was found that it quantifies them or that it gives qualitative descriptions to articulate the anticipated value to the business due to those nature-related opportunities .",Order - 1,,"NAT00B2B.1 = ""Yes"" AND
+ NAT00B2B.2   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.B.I<>""Yes"" AND B.2.B.II=""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV<>""Yes""",Expected,"Although the company identifies sustainability performance opportunities that could impact their business positively, no evidence was found that it quantifies them or that it gives qualitative descriptions to articulate the anticipated value to the business due to those opportunities .",Order - 1,,"NAT00B2B.1   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.2 = ""Yes"" AND 
+NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.B.I=""Yes"" ANDB.2.B.II=""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV<>""Yes""",Expected,"Although the company identifies nature-related business and sustainability performance opportunities that could impact their business positively, no evidence was found that it quantifies them or that it gives qualitative descriptions to articulate the anticipated value to the business due to those opportunities .",Order - 1,,"NAT00B2B.1 = ""Yes"" AND 
+NAT00B2B.2 = ""Yes"" AND 
+NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND
+ NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.B,NAT00B2B,The company assesses its nature-related opportunities. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.B.I<>""Yes"" ANDB.2.B.II<>""Yes"" AND B.2.B.III<>""Yes"" AND B.2.B.IV<>""Yes""",Expected,No relevant disclosure was found that the company assesses its nature-related or sustainability performance opportunities.,Order - 1,,"NAT00B2B.1   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.2   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.3   NOT EQUAL TO   ""Yes"" AND 
+NAT00B2B.4   NOT EQUAL TO   ""Yes""",
+,,,,NAT00B2B.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2B.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2B.3,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2B.4,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.C,NAT00B2C,The company assesses its nature-related risks. ,Met/Unmet/Not Applicable,Select,Met,"B.2.C.I=""Yes"" AND B.2.C.II=""Yes""",Expected,"The company identifies nature-related risks, and quantifies how those nature-related risks could impact the company's operations, financial performance, or reputation .",Order - 1,,"NAT00B2C.1=""Yes"" AND NAT00B2C.2=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.C,NAT00B2C,The company assesses its nature-related risks. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.C.I=""Yes"" AND B.2.C.II<>""Yes""",Expected,"Although the company identifies nature-related risks, no evidence was found that it quantifies how those nature-related risks could impact the company's operations, financial performance, or reputation .",Order - 1,,"NAT00B2C.1=""Yes"" AND NAT00B2C.2  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.C,NAT00B2C,The company assesses its nature-related risks. ,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.C.I<>""Yes"" AND B.2.C.II<>""Yes""",Expected,No relevant disclosure was found that the company assesses its nature-related risks.,Order - 1,,"NAT00B2C.1  NOT EQUAL TO  ""Yes"" AND NAT00B2C.2  NOT EQUAL TO  ""Yes""",
+,,,,NAT00B2C.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2C.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.D,NAT00B2D,The company manages its nature-related risks.,Met/Unmet/Not Applicable,Select,Met,"B.2.D.I=""Yes"" AND B.2.D.II<>""Yes""",Expected,The company reports that it is taking action in response to identified nature-related risks through concrete actions.,Order - 1,,"NAT00B2D.1=""Yes"" AND 
+NAT00B2D.2  NOT EQUAL TO  ""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.D,NAT00B2D,The company manages its nature-related risks.,Met/Unmet/Not Applicable,Select,Met,"B.2.D.I<>""Yes"" AND B.2.D.II=""Yes""",Expected,The company reports that it is taking action in response to the identified nature-related risks by integrating it into their risk management strategy.,Order - 1,,"NAT00B2D.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B2D.2=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.D,NAT00B2D,The company manages its nature-related risks.,Met/Unmet/Not Applicable,Select,Met,"B.2.D.I=""Yes"" AND B.2.D.II=""Yes""",Edge,The company reports that it is taking action in response to identified nature-related risks through concrete measures and by integrating these risks into their risk management strategy.,Order - 1,,"NAT00B2D.1=""Yes"" AND 
+NAT00B2D.2=""Yes""",
+Ambika/Xuelai,B.2,"Nature-related dependencies, risks and opportunities",B.2.D,NAT00B2D,The company manages its nature-related risks.,Met/Unmet/Not Applicable,Select,Unmet ,"B.2.D.I<>""Yes"" AND B.2.D.II<>""Yes""",Expected,No relevant disclosure was found that the company assesses its nature-related risks.,Order - 1,,"NAT00B2D.1  NOT EQUAL TO  ""Yes"" AND 
+NAT00B2D.2  NOT EQUAL TO  ""Yes""",
+,,,,NAT00B2D.1,,Yes/No/No - Without Evidence,Select,,,,,,,,
+,,,,NAT00B2D.2,,Yes/No/No - Without Evidence,Select,,,,,,,,
